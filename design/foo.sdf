@@ -1,0 +1,8 @@
+{
+  !$header: {
+    !$scheme: "./foo.scheme.sdf"
+  },
+  !$body: {
+    
+  }
+}

@@ -1,0 +1,8 @@
+{
+  !$header: { },
+  !$body: {
+    foo: @boolean, // boolean scalar
+    bar: @int[], // int array; linear list of given type
+    baz: { /* ... */ } // object; multiple key and/or value types
+  } // note: comments allowed
+}
